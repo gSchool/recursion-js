@@ -6,7 +6,7 @@
 * Fork
 * Clone
 * Create a new branch for your work using `git checkout -b v1`
-* Implement specs in `spec/exercise_spec.js`
+* Implement specs in `spec/tree_spec.js`
 * Run specs by opening `spec/SpecRunner.html`
 * Push using `git push -u origin v1`
 
